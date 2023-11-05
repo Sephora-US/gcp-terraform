@@ -8,3 +8,5 @@ To apply
 ```
 terraform apply
 ```
+
+Follow the order file names to create individual GCP resurces
